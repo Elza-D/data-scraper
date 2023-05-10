@@ -3,4 +3,4 @@ This repository contains a Scrapy spider that scrapes data from metacritic.com. 
 
 To obtain the data, run the code, then open the termin and copy in the following: scrapy runspider scrapy_spider.py -o output.csv
 
-You do need to install the scrapy libarary to run the code and get the data. 
+You need to install the scrapy libarary to run the code and get the data. 
